@@ -5,7 +5,7 @@
 👨‍💻 Here's my [website](https://www.andrew-nt.me/) so you can learn a little bit more about me!
 
 ## 🌐 Socials:
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/andrewnguyentran) [![email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg)](mailto:andrew.nt@virginia.edu) 
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://linkedin.com/in/andrewnguyentran) [![email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg)](mailto:andrewnguyen1115@gmail.com) 
 
 ## 💻 Tech Stack:
 
